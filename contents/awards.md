@@ -1,14 +1,12 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Freshman Scholarship (FZU), 2024.
 
-- National Scholarship for Graduate Student, 2024.
+- Outstanding Graduate Award (AHUT), 2021.
 
-- First-Prize Scholarship (FZU), 2024.
+- Two-Prize Scholarship (AHUT), 2021.
 
-- First-Prize Scholarship (CUMT), 2023.
+- Two-Prize Scholarship (AHUT), 2020.
 
-- Freshman Scholarship (CUMT), 2022.
+- First-Prize Scholarship (AHUT), 2018.
 
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Scholarship (AHUT), 2019.
+- First Prize Mathematics Competition (Anhui Province), 2017
