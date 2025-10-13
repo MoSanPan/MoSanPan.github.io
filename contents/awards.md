@@ -11,4 +11,4 @@
 
 - Outstanding Graduation Project Award (Jiangsu Province), 2022.
 
-- First-Prize Scholarship (Ahut), 2019.
+- First-Prize Scholarship (AHUT), 2019.
