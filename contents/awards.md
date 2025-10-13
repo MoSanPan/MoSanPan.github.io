@@ -3,7 +3,7 @@
 
 - National Scholarship for Graduate Student, 2024.
 
-- First-Prize Scholarship (Fzu), 2024.
+- First-Prize Scholarship (FZU), 2024.
 
 - First-Prize Scholarship (CUMT), 2023.
 
