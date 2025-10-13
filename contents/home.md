@@ -2,9 +2,8 @@
 
 He is currently a PhD candidate at the School of Mathematics and Statistics, Fuzhou University.
 
-#### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: molei0822@gmail.com
 
 #### Education
 M.E., Computer Science and Technology, Anhui University of Technology, 2018—2021.\
