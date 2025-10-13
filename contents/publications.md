@@ -10,4 +10,6 @@
 
 - <strong> Mo Lei </strong>, Wang Xiujun, Zheng Xiao. Efficient histogram method in data streams over sliding windows [J]. Application Research of Computers, 2021.  [[Paper]](https://www.arocmag.cn/abs/2020.07.0217)
 
+- WANG Xiu-jun, <strong> MO Lei </strong>, ZHENG Xiao, GAO Yun-quan. Adaptive Histogram Publishing Algorithm for Sliding Window of Data Stream[J].Computer Science, 2022. [[Paper]](https://www.jsjkx.com/EN/10.11896/jsjkx.210700242)
+
 
