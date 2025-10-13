@@ -5,5 +5,6 @@
 #### Published
 
 - X. Wang*, <strong> L. Mo</strong>, X. Zheng and Z. Dang. Streaming Histogram Publication Over Weighted Sliding Windows Under Differential Privacy.  <strong> Tsinghua Science and Technology </strong>. [[Paper]] (https://doi: 10.26599/TST.2023.9010083)
+- 
 
 
