@@ -1,6 +1,8 @@
 #### Submitted
 
-- <strong>L. Mo</strong>, X. Wang, L. Guo*. Differentiated Local Differential Privacy Bloom Filter for Membership Queries. <strong>ICLR 2026</strong>
+- <strong>L. Mo</strong>, X. Wang, L. Guo*. Differentiated Local Differential Privacy Bloom Filter for Membership Queries. <strong>ICLR 2026</strong>.
+
+- <strong>L. Mo</strong>, X. Wang, L. Guo*. StrataFilter: A Privacy-Preserving Probabilistic Framework for Efficient Range Queries over Data Streams. <strong>TDSC </strong>.
 
 #### Published
 
