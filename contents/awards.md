@@ -9,4 +9,4 @@
 
 - First-Prize Scholarship (AHUT), 2018.
 
-- First Prize Mathematics Competition (Anhui Province), 2017
+- First Prize Mathematics Competition (Anhui Province), 2017 
