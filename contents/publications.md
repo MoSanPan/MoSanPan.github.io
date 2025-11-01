@@ -6,11 +6,11 @@
 
 #### Published
 
-- Xiujun Wang; <strong>Lei Mo;</strong> Longkun Guo; Zhigang Lu; Zhi Liu; Minhui Xue. Online Streaming Sampling Publication Method Over Sliding Windows With Differential Privacy.  <strong>IEEE Transactions on Dependable and Secure Computing 2025. (CCF-A) </strong> [[Paper]](https://doi.org/10.1109/tdsc.2025.3592267)
+- Xiujun Wang; <strong>Lei Mo;</strong> Longkun Guo; Zhigang Lu; Zhi Liu; Minhui Xue. Online Streaming Sampling Publication Method Over Sliding Windows With Differential Privacy.  <strong>IEEE Transactions on Dependable and Secure Computing, 2025. (CCF-A) </strong> [[Paper]](https://doi.org/10.1109/tdsc.2025.3592267)
 
-- Xiujun Wang; Longkun Guo; Gaoming Yang;  <strong>Lei Mo </strong>; Xiao Zheng. Streaming Histogram Publication Over Weighted Sliding Windows Under Differential Privacy.  <strong> Tsinghua Science and Technology 2024.</strong> [[Paper]](https://doi.org/10.26599/tst.2024.9010187)  
+- Xiujun Wang; Longkun Guo; Gaoming Yang;  <strong>Lei Mo </strong>; Xiao Zheng. Streaming Histogram Publication Over Weighted Sliding Windows Under Differential Privacy.  <strong> Tsinghua Science and Technology, 2024.</strong> [[Paper]](https://doi.org/10.26599/tst.2024.9010187)  
 
-- Xiujun Wang, <strong> Lei Mo</strong>, Xiao Zheng and Zhe Dang. Streaming Histogram Publication Over Weighted Sliding Windows Under Differential Privacy.  <strong> Tsinghua Science and Technology 2024.</strong> [[Paper]](https://doi.org/10.26599/TST.2023.9010083) 
+- Xiujun Wang, <strong> Lei Mo</strong>, Xiao Zheng and Zhe Dang. Streaming Histogram Publication Over Weighted Sliding Windows Under Differential Privacy.  <strong> Tsinghua Science and Technology, 2024.</strong> [[Paper]](https://doi.org/10.26599/TST.2023.9010083) 
 
 - Chang Guo, Xiujun Wang, Xiao Zheng, Xun Shao, <strong> Lei Mo</strong> and G. Yang. A Fast Recommendation Algorithm for Data Streams Based on Differential Privacy.  <strong> 2023 Eleventh International Conference on Advanced Cloud and Big Data (CBD). </strong> [[Paper]](https://doi.org/10.1109/CBD63341.2023.00022)
 
