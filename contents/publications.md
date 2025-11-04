@@ -4,9 +4,9 @@
 
 #### Submitted
 
-- <strong>Lei Mo</strong>, Xiujun Wang, Longkun Guo*. Differentiated Local Differential Privacy Bloom Filter for Membership Queries. <strong>ICLR 2026</strong>.
+- <strong>Lei Mo</strong>, Xiujun Wang, Longkun Guo*. Differentiated Local Differential Privacy Bloom Filter for Membership Queries. <strong>ICLR 2026.</strong>
 
-- <strong>Lei Mo</strong>, Xiujun Wang, Longkun Guo*. StrataFilter: A Privacy-Preserving Probabilistic Framework for Efficient Range Queries over Data Streams. <strong>TDSC 2025</strong>.
+- <strong>Lei Mo</strong>, Xiujun Wang, Longkun Guo*. StrataFilter: A Privacy-Preserving Probabilistic Framework for Efficient Range Queries over Data Streams. <strong>TDSC 2025.</strong>
 
 #### Published
 
