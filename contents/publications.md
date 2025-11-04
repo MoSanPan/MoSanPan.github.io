@@ -18,7 +18,7 @@
 
 - Xiujun Wang; Qing Gao; Xiao Zheng; Tao Tao; Gaoming Yang; <strong>Lei Mo</strong>. Privacy Protection in Trajectory Data Publication Based on Differential Privacy.  <strong> 2024 IEEE Global Communications Conference.</strong> [[Paper]](https://doi.org/10.1109/globecom52923.2024.10901721)
 
-- Wang Xiujun, <strong>Mo Lei</strong>, Zheng Xiao, Wei Linna, Dong Jun, Liu Zhi, Guo Longkun. Sampling Based Fast Publishing Algorithm with Differential Privacy for Data Stream[J]. Journal of Computer Research and Development, 2024. (CCF-A) [[Paper]](https://doi.org/10.7544/issn1000-1239.202440481)
+- Wang Xiujun, <strong>Mo Lei</strong>, Zheng Xiao, Wei Linna, Dong Jun, Liu Zhi, Guo Longkun. Sampling Based Fast Publishing Algorithm with Differential Privacy for Data Stream[J]. <strong>Journal of Computer Research and Development, 2024. (CCF-A) </strong> [[Paper]](https://doi.org/10.7544/issn1000-1239.202440481)
 
 - Chang Guo, Xiujun Wang, Xiao Zheng, Xun Shao, <strong> Lei Mo</strong> and G. Yang. A Fast Recommendation Algorithm for Data Streams Based on Differential Privacy.  <strong> 2023 Eleventh International Conference on Advanced Cloud and Big Data (CBD). </strong> [[Paper]](https://doi.org/10.1109/CBD63341.2023.00022)
 
