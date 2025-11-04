@@ -16,7 +16,7 @@
 
 - Xiujun Wang, <strong> Lei Mo</strong>, Xiao Zheng and Zhe Dang. Streaming Histogram Publication Over Weighted Sliding Windows Under Differential Privacy.  <strong> Tsinghua Science and Technology, 2024.</strong> [[Paper]](https://doi.org/10.26599/TST.2023.9010083)
 
-- Xiujun Wang; Qing Gao; Xiao Zheng; Tao Tao; Gaoming Yang; <strong>Lei Mo</strong>. Privacy Protection in Trajectory Data Publication Based on Differential Privacy.  <strong> 2024 IEEE Global Communications Conference.</strong> [[Paper]](https://doi.org/10.1109/globecom52923.2024.10901721)
+- Xiujun Wang; Qing Gao; Xiao Zheng; Tao Tao; Gaoming Yang; <strong>Lei Mo</strong>. Privacy Protection in Trajectory Data Publication Based on Differential Privacy.  <strong> 2024 IEEE Global Communications Conference. (CCF-C) </strong> [[Paper]](https://doi.org/10.1109/globecom52923.2024.10901721)
 
 - Wang Xiujun, <strong>Mo Lei</strong>, Zheng Xiao, Wei Linna, Dong Jun, Liu Zhi, Guo Longkun. Sampling Based Fast Publishing Algorithm with Differential Privacy for Data Stream[J]. <strong>Journal of Computer Research and Development, 2024. (CCF-A) </strong> [[Paper]](https://doi.org/10.7544/issn1000-1239.202440481)
 
