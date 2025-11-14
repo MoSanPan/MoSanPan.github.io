@@ -1,6 +1,6 @@
 #### Draft completed
 
-- Navigating the Privacy-Accuracy Trade-Off for Learned Bloom Filters. 2025.
+- <strong>Lei Mo</strong>, Xiujun Wang, Longkun Guo*. Navigating the Privacy-Accuracy Trade-Off for Learned Bloom Filters. 2025.
 
 #### Submitted
 
