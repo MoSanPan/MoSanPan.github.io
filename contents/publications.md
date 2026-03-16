@@ -10,6 +10,10 @@
 
 #### Published
 
+##### 2026
+
+- Chang Guo; Xiujun Wang; <strong>Lei Mo*</strong>. An Efficient Incremental Clustering Algorithm Based on Differential Privacy.  <strong>Journal of King Saud University Computer and Information Sciences, 2026.(Accepted)
+
 ##### 2025
 
 - Xiujun Wang; <strong>Lei Mo;</strong> Longkun Guo; Zhigang Lu; Zhi Liu; Minhui Xue. Online Streaming Sampling Publication Method Over Sliding Windows With Differential Privacy.  <strong>IEEE Transactions on Dependable and Secure Computing, 2025. (CCF-A) </strong> [[Paper]](https://doi.org/10.1109/tdsc.2025.3592267)
