@@ -31,7 +31,7 @@
 
 ##### 2023
 
-- Chang Guo, Xiujun Wang, Xiao Zheng, Xun Shao, <strong> Lei Mo</strong> and G. Yang. A Fast Recommendation Algorithm for Data Streams Based on Differential Privacy.  <strong> 2023 Eleventh International Conference on Advanced Cloud and Big Data (CBD). </strong> [[Paper]](https://doi.org/10.1109/CBD63341.2023.00022)
+- Chang Guo, Xiujun Wang, Xiao Zheng, Xun Shao, <strong> Lei Mo</strong> and Gaoming Yang. A Fast Recommendation Algorithm for Data Streams Based on Differential Privacy.  <strong> 2023 Eleventh International Conference on Advanced Cloud and Big Data (CBD). </strong> [[Paper]](https://doi.org/10.1109/CBD63341.2023.00022)
 
 ##### 2022
 
