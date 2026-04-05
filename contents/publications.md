@@ -13,7 +13,9 @@
 
 ##### 2026
 
-- Chang Guo; Xiujun Wang; <strong>Lei Mo*</strong>. An Efficient Incremental Clustering Algorithm Based on Differential Privacy.  <strong>Journal of King Saud University Computer and Information Sciences, 2026.(Accepted)
+- Tao Tao; Song Cheng; <strong>Lei Mo*</strong>; Xiujun Wang. PULSE-LDP: Pattern-Aware Unified Local Sampling for Efficient Local Differential Privacy.  <strong>IEEE Internet of Things Journal, 2026. (Accepted)
+
+- Chang Guo; Xiujun Wang; <strong>Lei Mo*</strong>. An Efficient Incremental Clustering Algorithm Based on Differential Privacy.  <strong>Journal of King Saud University Computer and Information Sciences, 2026. (Accepted)
 
 ##### 2025
 
