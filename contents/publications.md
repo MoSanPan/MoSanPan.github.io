@@ -25,6 +25,9 @@
 
 - Xiujun Wang; Longkun Guo; Gaoming Yang;  <strong>Lei Mo</strong>; Xiao Zheng. A Block-Wise Updating Strategy for Approximate Duplicate Detection.  <strong> Tsinghua Science and Technology, 2025.</strong> [[Paper]](https://doi.org/10.26599/tst.2024.9010187)
 
+- Xiujun Wang; Weiyi Chen; <strong>Lei Mo*</strong>; Luyu Gui; Gaoming Yang; Tao Tao. Efficient RFID Integrity Authentication Protocol with Hash Chain Mechanisms. <strong>Mobile Networks and Management (MONAMI 2025)</strong>, 2027. [[Paper]](https://doi.org/10.1007/978-3-032-39125-4_40)
+
+
 ##### 2024
 
 - Xiujun Wang, <strong> Lei Mo</strong>, Xiao Zheng and Zhe Dang. Streaming Histogram Publication Over Weighted Sliding Windows Under Differential Privacy.  <strong> Tsinghua Science and Technology, 2024.</strong> [[Paper]](https://doi.org/10.26599/TST.2023.9010083)
