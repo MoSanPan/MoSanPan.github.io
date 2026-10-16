@@ -13,13 +13,14 @@
 
 ##### 2026
 
-- Xiujun Wang; Weiyi Chen; <strong>Lei Mo*</strong>; Luyu Gui; Gaoming Yang; Tao Tao. Efficient RFID Integrity Authentication Protocol with Hash Chain Mechanisms. <strong>Mobile Networks and Management (MONAMI 2025)</strong>, 2027. [[Paper]](https://doi.org/10.1007/978-3-032-39125-4_40)
 
 - Xin Zhang; Yan Gao*; Xiujun Wang; <strong>Lei Mo</strong>; Gaoming Yang. Group-aware RFID tag cardinality estimation with dynamic distance adaptation[J]. International Journal of Pervasive Computing and Communications, 2026: 1-23.[[Paper]](https://doi.org/10.1108/IJPCC-08-2025-0357)
 
 - Tao Tao; Song Cheng; <strong>Lei Mo*</strong>; Xiujun Wang. PULSE-LDP: Pattern-Aware Unified Local Sampling for Efficient Local Differential Privacy.  <strong>IEEE Internet of Things Journal </strong>, 2026.[[Paper]](https://doi.org/10.1109/JIOT.2026.3682480)
 
 - Chang Guo; Xiujun Wang; <strong>Lei Mo*</strong>. An Efficient Incremental Clustering Algorithm Based on Differential Privacy.  <strong>Journal of King Saud University Computer and Information Sciences</strong>, 2026. [[Paper]](https://link.springer.com/article/10.1007/s44443-026-00678-7)
+
+- Xiujun Wang; Weiyi Chen; <strong>Lei Mo*</strong>; Luyu Gui; Gaoming Yang; Tao Tao. Efficient RFID Integrity Authentication Protocol with Hash Chain Mechanisms. <strong>Mobile Networks and Management (MONAMI 2025)</strong>, 2027. [[Paper]](https://doi.org/10.1007/978-3-032-39125-4_40)
 
 ##### 2025
 
